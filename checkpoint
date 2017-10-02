@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/sanskar/DL/mnist/restore.ckpt"
+all_model_checkpoint_paths: "/home/sanskar/DL/mnist/restore.ckpt"
